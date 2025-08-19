@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Praveene0412
 - 👀 I’m interested in being a Tech Innovation Explorer
-- 🌱 I’m currently in my 2nd year of CSE
+- 🌱 I’m currently in my final year of CSE
 - 📫 How to reach me through https://linktr.ee/praveeen_e
 - ⚡ Fun fact: I'm not too fond of it when my PC hangs 🙄
