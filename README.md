@@ -6,7 +6,7 @@
 - 💼 AI & Data Science Intern at AiROBOSOFT, where I built a real-time driver drowsiness detection system
 - 👀 Interested in computer vision, deep learning and building tech that solves real problems
 - 🎯 Looking for a Python Developer or Data Science role
-- 📫 Reach me: [Linktree](https://linktr.ee/praveeen_e) | [LinkedIn](https://linkedin.com/in/praveene0412) | praveene2026@gmail.com
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/praveene0412) | praveene2026@gmail.com
 - ⚡ Fun fact: I'm not too fond of it when my PC hangs 🙄
 
 ---
