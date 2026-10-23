@@ -46,12 +46,12 @@ Deep learning system that detects and classifies brain tumors from MRI scans usi
 ### 🤟 Sign Language Recognition
 Real-time ASL gesture recognition that translates video to text, using a CNN with MediaPipe hand landmarks (~90% accuracy).
 **Tech:** Python, OpenCV, MediaPipe, TensorFlow, Keras
-🔗 [View repo](ADD-REPO-LINK)
+🔗 [View repo](https://github.com/Praveene0412/Sign-Language-Recognition-System-for-Empowering-Individuals-with-Disabilities)
 
 ### 😴 Real-Time Driver Drowsiness Detection
 Built during my internship. Uses OpenCV and facial landmarks with Eye Aspect Ratio to detect eye closure and blink rate from live video, and triggers an instant alert.
 **Tech:** Python, OpenCV, Facial Landmarks, OOP
-🔗 [View repo](ADD-REPO-LINK)
+🔗 [View repo](https://github.com/Praveene0412/Real-time-Drowsiness-Detection-System)
 
 ---
 
