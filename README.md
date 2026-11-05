@@ -41,7 +41,7 @@
 ### 🧠 Autonomous Detection of Malignant Tumors
 Deep learning system that detects and classifies brain tumors from MRI scans using a CNN, reaching ~88–91% accuracy and outperforming the baseline models I compared.
 **Tech:** Python, TensorFlow, Keras, OpenCV, NumPy
-🔗 [View repo](ADD-REPO-LINK)
+🔗 [View repo](https://github.com/Praveene0412/Brain-Tumor-Detection)
 
 ### 🤟 Sign Language Recognition
 Real-time ASL gesture recognition that translates video to text, using a CNN with MediaPipe hand landmarks (~90% accuracy).
@@ -63,6 +63,6 @@ Built during my internship. Uses OpenCV and facial landmarks with Eye Aspect Rat
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveene0412&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Praveene0412&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
