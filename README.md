@@ -63,7 +63,6 @@ Built during my internship. Uses OpenCV and facial landmarks with Eye Aspect Rat
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Stats
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Praveene0412&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveene0412&layout=compact)
